@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "expo": "^54.0.30",
+    "expo-print": "~15.0.8",
+    "expo-sharing": "~14.0.8",
     "lucide-react-native": "^0.562.0",
     "react-native-safe-area-context": "^5.6.2"
   },
